@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/diagleg" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
+
